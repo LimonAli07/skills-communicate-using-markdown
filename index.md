@@ -1,3 +1,3 @@
-``` java
-System.out.println("hey");
-```
+- [] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
